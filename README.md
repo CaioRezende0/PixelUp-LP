@@ -2,7 +2,7 @@
 
 Uma landing page moderna, responsiva e com alto impacto visual desenvolvida com **Next.js**, **Tailwind CSS**, animações com **AOS** e interações com **Framer Motion** (onde aplicável).
 
-![PixelUp Preview](public/images/preview.png) <!-- Adicione uma imagem preview da landing se desejar -->
+
 
 ---
 
